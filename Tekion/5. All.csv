@@ -9,10 +9,10 @@ EASY,Cousins in Binary Tree,61.6,0.5817380089487071,https://leetcode.com/problem
 MEDIUM,Meeting Rooms II,61.6,0.5214172217778257,https://leetcode.com/problems/meeting-rooms-ii,"Array, Two Pointers, Greedy, Sorting, Heap (Priority Queue), Prefix Sum",Done
 HARD,Word Ladder,61.6,0.42812064281842477,https://leetcode.com/problems/word-ladder,"Hash Table, String, Breadth-First Search",Done
 MEDIUM,Product of the Last K Numbers,61.6,0.6274634247482844,https://leetcode.com/problems/product-of-the-last-k-numbers,"Array, Math, Design, Data Stream, Prefix Sum",Done
-MEDIUM,Find First and Last Position of Element in Sorted Array,61.6,0.46828866310912803,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array,"Array, Binary Search",
+MEDIUM,Find First and Last Position of Element in Sorted Array,61.6,0.46828866310912803,https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array,"Array, Binary Search",Done
 HARD,Best Time to Buy and Sell Stock III,61.6,0.5112109216533897,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii,"Array, Dynamic Programming",Done
 MEDIUM,Ways to Split Array Into Three Subarrays,61.6,0.3344652559336574,https://leetcode.com/problems/ways-to-split-array-into-three-subarrays,"Array, Two Pointers, Binary Search, Prefix Sum",
-MEDIUM,Find Peak Element,61.6,0.4650920934902725,https://leetcode.com/problems/find-peak-element,"Array, Binary Search",
+MEDIUM,Find Peak Element,61.6,0.4650920934902725,https://leetcode.com/problems/find-peak-element,"Array, Binary Search",Done
 MEDIUM,Jump Game,61.6,0.39479188803908405,https://leetcode.com/problems/jump-game,"Array, Dynamic Programming, Greedy",Done
 EASY,Is Subsequence,61.6,0.4838256140732861,https://leetcode.com/problems/is-subsequence,"Two Pointers, String, Dynamic Programming",
 MEDIUM,Spiral Matrix,61.6,0.539398836789508,https://leetcode.com/problems/spiral-matrix,"Array, Matrix, Simulation",Done
